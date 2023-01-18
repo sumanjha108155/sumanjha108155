@@ -186,10 +186,7 @@ g.typingUnderline rect {
 
 
 
-<text x="2" y="12" font-family="Helvetica" font-size=".22em" 
-      fill="#AAA" font-weight="bold"> 
-      Hi there ! I am Niraj Giri
-</text>
+<text x="2" y="12" font-family="Helvetica" font-size=".22em" fill="#AAA" font-weight="bold"> Niraj Giri </text>
 
 
 
