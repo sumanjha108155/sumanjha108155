@@ -2,11 +2,6 @@
 
 <style>
 
-* {
-  border: none !important;
-  baackground-color: transparent !important;
-}
-  
 svg text {
   transform-origin: 50% 50%;
   transform: translate(0%, -40%) rotate(180deg);
@@ -176,7 +171,7 @@ g.typingUnderline rect {
     <circle class="drop drop5" cx="14.2" cy="5.1" r="7.5"  />
     <circle class="drop drop6" cx="17.2" cy="4.8" r="9.2"  />
       
-    <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
+<!--     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" /> -->
   </g>  
 
 <path id="nameTyping">
@@ -190,7 +185,7 @@ g.typingUnderline rect {
 </path>
 
 
-<text x="5" y="13" font-family="Helvetica" font-size=".22em" fill="#AAA" font-weight="bold"> Niraj Giri </text>
+<!-- <text x="5" y="13" font-family="Helvetica" font-size=".22em" fill="#AAA" font-weight="bold"> Niraj Giri </text> -->
 
 
 
