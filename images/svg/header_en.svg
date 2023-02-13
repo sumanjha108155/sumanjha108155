@@ -20,14 +20,14 @@ svg {
   overflow:visible;
 }
 
-rect.headerRect {
+<!-- rect.headerRect {
   fill: black;
   fill-opacity: 20%;
 }
 rect.headerRect:hover {
   fill: yellow;
   fill-opacity: 50%;
-}
+} -->
 
 .wave {
   animation: wave 3s linear;
@@ -171,7 +171,7 @@ g.typingUnderline rect {
     <circle class="drop drop5" cx="14.2" cy="5.1" r="7.5"  />
     <circle class="drop drop6" cx="17.2" cy="4.8" r="9.2"  />
       
-<!--     <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" /> -->
+    <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
   </g>  
 
 <path id="nameTyping">
