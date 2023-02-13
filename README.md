@@ -12,7 +12,7 @@
       <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
     </a>
   </div>
-  <div>
+<!--   <div>
     Niraj Giri
-  </div>
+  </div> -->
 </center>
