@@ -20,14 +20,14 @@ svg {
   overflow:visible;
 }
 
-<!-- rect.headerRect {
+rect.headerRect {
   fill: black;
   fill-opacity: 20%;
 }
 rect.headerRect:hover {
   fill: yellow;
   fill-opacity: 50%;
-} -->
+}
 
 .wave {
   animation: wave 3s linear;
