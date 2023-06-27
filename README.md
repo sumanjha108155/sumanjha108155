@@ -7,9 +7,6 @@
     </a>&ensp;
     <a href="https://www.linkedin.com/in/nirajgirixd/">
       <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-    </a>&ensp;
-    <a href="https://www.instagram.com/nirajgirixd/">
-      <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
     </a>
   </div>
 <!--   <div>
