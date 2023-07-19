@@ -20,7 +20,7 @@ I'm a full-stack developer and content creator building my version of the digita
    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="image/html.png" />
    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="image/css.png" />
    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="image/js.png" />
-   <img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="image/jQuery.png" />
+   <img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="image/jquery.png" />
    <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="image/php.png" />
    <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="image/wp.png" />
 </div>
