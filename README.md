@@ -20,15 +20,17 @@ I'm a full-stack developer and content creator building my version of the digita
 
 <br />
 <div>
-   <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="image/html.png" />
-   <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="image/css.png" />
-   <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="image/js.png" />
-   <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right:10px;" src="image/jquery.png" />
-   <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="image/php.png" />
-   <img align="left" alt="WordPress" title="WordPress" width="30px" style="padding-right:10px;" src="image/wp.png" />
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML"/>
+   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown"/>
+   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS"/>
+   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint"/>
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" title="JavaScript"/>
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" title="React"/>
+   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" title="NPM"/>
+   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" title="PHP"/>
+   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>
 </div>
-<br />
-<br />
 
 ---
 
