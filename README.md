@@ -4,11 +4,14 @@
 
 I'm a full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
+   <h3 align="left">Connect with me:</h3>
    <p align="left">
-      <a href="https://stackoverflow.com/users/22138079/nirajgirixd">
-         <img alt="stack overflow icon" title="Stack Overflow Profile" src="https://custom-icon-badges.demolab.com/github/followers/nirajgiriXD?color=236ad3&label=StackOverflow&logo=stack_overflow_icon&logoColor=white&style=for-the-badge&labelColor=236ad3"/></a>  
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="linkedin icon" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/github/followers/nirajgiriXD?color=%23E05D44&style=for-the-badge&logo=linked_in_icon&label=LinkedIn&logoColor=white&labelColor=%23E05D44"/></a>
+      <a href="https://stackoverflow.com/users/22138079/nirajgirixd" target="blank">
+         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20004462" height="30" width="40" />
+      </a>
+      <a href="https://www.linkedin.com/in/nirajgirixd/" target="blank">
+         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
    </p>
 
 ---
