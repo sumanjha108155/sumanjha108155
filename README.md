@@ -46,7 +46,7 @@ I'm a full-stack developer and content creator building my version of the digita
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nirajgiriXD&theme=gruvbox&border_radius=4.5)
 
-<hr> 
+---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajgiriXD&show_icons=true&theme=gruvbox)
 
