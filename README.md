@@ -18,6 +18,7 @@ I'm a full-stack developer and content creator building my version of the digita
 
 ## 🛠️ Languages and Tools
 
+<!-- https://simpleicons.org/-->
 <div>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML"/>
    <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown"/>
@@ -34,7 +35,7 @@ I'm a full-stack developer and content creator building my version of the digita
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="Visual Studio Code"/>
    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>
    <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress"/>
-   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="WordPress"/>
+   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
 </div>
 
 ---
