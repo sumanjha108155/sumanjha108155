@@ -37,15 +37,18 @@ I'm a full-stack developer and content creator building my version of the digita
    <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress"/>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C"/>
+   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++"/>
 </div>
 
 ---
 
 ## 🏆 Stats
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajgiriXD&show_icons=true&theme=gruvbox) -->
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=nirajgiriXD&theme=gruvbox&border_radius=4.5)
+
+<hr> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajgiriXD&show_icons=true&theme=gruvbox)
 
 ---
 
