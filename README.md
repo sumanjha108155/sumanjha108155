@@ -4,10 +4,7 @@
 
 I'm a full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
----
-
-## 🤝 Connect with me
-
+<h3>Connect with me:</h3>
 <p align="left">
    <a href="https://stackoverflow.com/users/22138079/nirajgirixd" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20004462" height="30" width="40" />
