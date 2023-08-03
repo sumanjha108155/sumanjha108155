@@ -4,19 +4,6 @@ I'm a full-stack developer and content creator building my version of the digita
 
 ---
 
-## 🔗 Connect with me
-
-<p align="left">
-   <a href="https://stackoverflow.com/users/22138079/nirajgirixd" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20004462" height="30" width="40" />
-   </a>
-   <a href="https://www.linkedin.com/in/nirajgirixd/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-   </a>
-</p>
-
----
-
 ## 🛠️ Languages and Tools
 
 <!-- https://simpleicons.org/-->
