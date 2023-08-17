@@ -23,6 +23,7 @@ I'm a full-stack developer and content creator building my version of the digita
    <img src="https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" title="Insomnia"/>
    <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" title="XAMPP"/>
    <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" title="Photoshop"/>
+   <img src="https://img.shields.io/badge/microsoft office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" title="Microsoft Office"/>
    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C"/>
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++"/>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
