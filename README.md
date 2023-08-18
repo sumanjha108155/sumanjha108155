@@ -24,6 +24,8 @@ I'm a full-stack developer and content creator building my version of the digita
    <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" title="XAMPP"/>
    <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" title="Photoshop"/>
    <img src="https://img.shields.io/badge/microsoft office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" title="Microsoft Office"/>
+   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" />
+   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Dart" />
    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C"/>
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++"/>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
@@ -31,7 +33,6 @@ I'm a full-stack developer and content creator building my version of the digita
    <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="Visual Studio Code" />
-   
 </div>
 
 ---
