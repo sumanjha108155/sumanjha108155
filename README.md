@@ -16,6 +16,7 @@ I'm a full-stack developer and content creator building my version of the digita
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" title="JavaScript"/>
    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery"/>
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React"/>
+   <img src="https://img.shields.io/badge/local-51BB7B?style=for-the-badge&logo=local&logoColor=white" title="Local"/>
    <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress"/>
    <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP"/>
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
