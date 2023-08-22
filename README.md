@@ -24,6 +24,7 @@ I'm a full-stack developer and content creator building my version of the digita
    <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" title="XAMPP"/>
    <img src="https://img.shields.io/badge/microsoft office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" title="Microsoft Office"/>
    <img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" title="Adobe"/>
+   <img src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white" title="macOS"/>
    <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" title="Windows"/>
    <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white" title="Android"/>
    <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white" title="iOS"/>
