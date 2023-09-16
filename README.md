@@ -7,6 +7,7 @@ I'm a full-stack developer and content creator building my version of the digita
 ## 🛠️ Languages and Tools
 
 <!-- https://simpleicons.org/-->
+<!-- Hello World -->
 <div>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML"/>
    <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" title="Markdown"/>
