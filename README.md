@@ -1,4 +1,4 @@
-# Niraj Giri
+# Suman Jha
 
 Hello there! I'm a dedicated developer, shaping my digital footprint with a meticulous approach to every project. From concept to code, I thrive on the entire process, blending innovation with problem-solving. My work isn't just about programming; it's a commitment to crafting unique solutions and pushing the boundaries of what technology can achieve. Whether streamlining processes or tackling complex challenges, I embrace each opportunity to make a real-world impact. Beyond the screen, I'm a perpetual learner, staying ahead in the dynamic tech landscape.
 
@@ -18,19 +18,13 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" title="jQuery"/>
    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white" title="React"/>
    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" title="NPM"/>
-   <img src="https://img.shields.io/badge/eslint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint"/>
-   <img src="https://img.shields.io/badge/webpack-333333?style=for-the-badge&logo=webpack&logoColor=white" title="Webpack"/>
    <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress"/>
    <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" title="PHP"/>
    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL"/>
-   <img src="https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" title="Insomnia"/>
    <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>
    <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" title="XAMPP"/>
    <img src="https://img.shields.io/badge/local-51BB7B?style=for-the-badge&logo=local&logoColor=white" title="Local"/>
    <img src="https://img.shields.io/badge/microsoft office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" title="Microsoft Office"/>
-   <img src="https://img.shields.io/badge/adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" title="Adobe"/>
-   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" title="Flutter" />
-   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" title="Dart" />
    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" title="C"/>
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++"/>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
