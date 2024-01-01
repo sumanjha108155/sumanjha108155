@@ -1,6 +1,6 @@
 # Suman Jha
 
-Hello there! I'm a dedicated developer, shaping my digital footprint with a meticulous approach to every project. From concept to code, I thrive on the entire process, blending innovation with problem-solving. My work isn't just about programming; it's a commitment to crafting unique solutions and pushing the boundaries of what technology can achieve. Whether streamlining processes or tackling complex challenges, I embrace each opportunity to make a real-world impact. Beyond the screen, I'm a perpetual learner, staying ahead in the dynamic tech landscape.
+Greetings! I am a committed software engineer, leaving an indelible mark on the digital realm through a methodical and detail-oriented approach to each project. Moving seamlessly from idea inception to code implementation, I excel in navigating the entirety of the development process. My endeavors transcend mere programming; they represent a dedication to formulating distinctive solutions and challenging the limits of technological possibilities. Whether optimizing workflows or unraveling intricate problems, I seize every chance to effect tangible change. Beyond the monitor, I am an unwavering knowledge seeker, remaining at the forefront of the ever-evolving tech environment.
 
 ---
 
