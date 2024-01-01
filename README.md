@@ -29,6 +29,10 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" title="C++"/>
    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
    <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" title="Selenium"/>
+   <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" title="Swagger"/>
+   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" title="Linux"/>
+   <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" title="microsoftsqlserver"/>
+   <img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" title="Dot Net"/>
    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="Visual Studio Code" />
    <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
@@ -36,15 +40,14 @@ Hello there! I'm a dedicated developer, shaping my digital footprint with a meti
 
 ---
 
-## 🏆 Stats
+<!-- ## 🏆 Stats -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nirajgiriXD&theme=gruvbox&border_radius=4.5)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=sumanjha108155&theme=gruvbox&border_radius=4.5) -->
 
----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajgiriXD&show_icons=true&theme=gruvbox)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanjha108155&show_icons=true&theme=gruvbox) -->
 
----
+
 
 <details>
    <summary>
