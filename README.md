@@ -36,6 +36,9 @@ Greetings! I am a committed software engineer, leaving an indelible mark on the 
    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" title="Visual Studio Code" />
    <img src="https://img.shields.io/badge/git-181717?style=for-the-badge&logo=git&logoColor=white" title="Git"/>
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" title="BitBucket"/>
+   <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white" title="Sourcetree"/>
+   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker"/>
 </div>
 
 ---
